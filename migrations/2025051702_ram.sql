@@ -1,2 +1,2 @@
 INSERT INTO users (name, email) VALUES
- ('larry', 'larry@example.com');
+ ('ram', 'ram@example.com');
