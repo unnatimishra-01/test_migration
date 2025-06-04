@@ -1,1 +1,1 @@
-ALTER table users ADD COLUMN address TEXT;
+ALTER table users ADD COLUMN new TEXT;
